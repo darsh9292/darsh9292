@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://in.linkedin.com/in/darshan-patel-info" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[[https://www.linkedin.com/in/deep-shah-b0b0171b8](https://in.linkedin.com/in/darshan-patel-info)/](https://in.linkedin.com/in/darshan-patel-info)" height="30" width="40" /></a>
+<a href="https://in.linkedin.com/in/darshan-patel-info" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[[https://in.linkedin.com/in/darshan-patel-info](https://in.linkedin.com/in/darshan-patel-info)/](https://in.linkedin.com/in/darshan-patel-info)" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/3758948/darshan-patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/3758948/darshan-patel" height="30" width="40" /></a>
 <a href="https://topmate.io/darshanpatel" target="blank"><img align="center" src="https://topmate.io/apple-icon-60x60.png" alt="[https://topmate.io/darshanpatel](https://topmate.io/darshanpatel)" height="30" width="40" /></a>
 </p>
