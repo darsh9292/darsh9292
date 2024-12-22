@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darsh9292&theme=onedark" alt="darsh9292" /></a> </p>
 -->
 
-- 🔭 I’m currently working as Senior Technical Lead at Crest Data Systems in Security & Data domains
+- 🔭 I’m currently working remotely as Principal Consultant in FinTech domain
 - 🌱 I’m currently learning different technologies like React, DevOps
 - 👯 I’m looking to collaborate on GitHub
 - 💬 Ask me about System Design or any professional technical/career help via https://topmate.io/darshanpatel
