@@ -18,4 +18,4 @@
 <a href="https://topmate.io/darshanpatel" target="blank"><img align="center" src="https://topmate.io/apple-icon-60x60.png" alt="[https://topmate.io/darshanpatel](https://topmate.io/darshanpatel)" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=darsh9292&theme=onedark&show_icons=true&locale=en&layout=compact" alt="darsh9292" /></p>
+<p><img align="center" src="https://github-readme-stats-git-master-darsh9292s-projects.vercel.app/api/top-langs?username=darsh9292&theme=onedark&show_icons=true&locale=en&layout=compact" alt="darsh9292" /></p>
